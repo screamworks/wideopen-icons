@@ -1,0 +1,213 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.headerContent {
+  margin: 0;
+  padding: 2% 10% 5% 10%;
+  background-image: url("./img/wot-masthead-dark.jpg");
+  background-size: cover;
+
+}
+
+.headerContainer {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  background-image: url("./img/title_wideopentech.png");
+  height: 46px;
+  width: 230px;
+
+}
+
+.navbar {
+
+
+}
+
+li {
+
+  display: inline-block;
+  padding: 0;
+  margin-right: 5px;
+  margin-left: 5px;
+  list-style-type: none;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-stretch: semi-expanded;
+  line-height: 23px;
+  font-size: 16px;
+  font-style: normal;
+  color: white;
+  letter-spacing: 1px;
+}
+
+.banner {
+ padding-top: 10%;
+ width: 650px;
+ margin: 0 auto;
+}
+
+.yourDigital {
+ padding-left: 15px;
+}
+
+.workshop{
+ text-align: center;
+}
+
+h1 {
+
+  font-family: 'Oswald', sans-serif;
+  font-size: 140px;
+  letter-spacing: 3pt;
+  line-height: 85pt;
+  color: white;
+  margin:0;
+  padding-bottom:20px;
+  font-weight: 300;
+
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 18pt;
+  letter-spacing: 1pt;
+  color: white;
+  margin:0;
+  padding:0;
+
+}
+
+.align {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.whiteBox{
+  height: 6px;
+  width: 8vw;
+  background-color: white;
+
+}
+
+.business {
+
+}
+
+.solution {
+  color: orange;
+}
+
+.idea {
+  color: #bdd436;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 1000;
+  font-size: 22px;
+  color: white;
+}
+
+.btnAlign {
+  display: flex;
+  justify-content: center;
+  padding-top: 3%;
+
+}
+
+.btn {
+ background-color: #bdd436;
+ width: 30vw;
+ height: 50px;
+ border-radius: 25px;
+}
+
+h4 {
+
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size: 12pt;
+  color: white;
+  letter-spacing: 2px;
+  width: 100%;
+  text-align: center;
+  padding-top: 15px;
+  margin:0;
+}
+
+.mid {
+  background-color: #F0F0F0;
+  margin: 0;
+}
+
+.txtcenter {
+
+}
+
+
+
+.greySpace {
+
+}
+
+p {
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 18pt;
+  line-height: 25pt;
+  color: #6a787c;
+  margin: 0;
+  text-align: center;
+  padding: 3% 10%;
+
+}
+
+
+.works {
+  text-align: center;
+ font-weight: bold;
+ color: #bdd436;
+ height: 30%;
+
+}
+
+h5 {
+  text-align: center;
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 46px;
+  color: #6a787c;
+  padding-top: 2%;
+}
+
+.logoAlign{
+  display: flex;
+  justify-content: center;
+
+}
+
+.logo2{
+  background-image: url("./img/sprite_home.png");
+  width: 75px;
+  height: 75px;
+  background-position: -22px -113px;
+
+}
+
+.navBar a{color: white;list-style-type: none; font-family: sans-serif;text-decoration:none; }
+.navBar a:hover{border-bottom: 3px solid #BDD436; }
+.btn a{color: white;list-style-type: none; font-family: sans-serif;text-decoration:none; }
+.btn a:hover{border-bottom: 3px solid #BDD436; }
+h4 a{color: white;list-style-type: none; font-family: sans-serif;text-decoration:none; }
+h4 a:hover{border-bottom: 3px solid #BDD436; }
